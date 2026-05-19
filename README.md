@@ -18,7 +18,8 @@ This data analytics repository provides a complete relational data warehouse str
 * `ai_job_dataset.csv`: Raw data source tracking file used for the project setup.
 * `job_market_dashboard.png`: Screenshot image highlighting the finished operational dashboard interface.
 
-## 🚀 Step-by-Step Local Deployment Setup
+## 📊 Dashboard Preview
+![AI Job Market Dashboard](job_market_dashboard.png)
 
 ### 1. Replicate Project Directory Tree Locally
 ```bash
